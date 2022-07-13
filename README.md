@@ -1,6 +1,5 @@
-# Interpreter in Go
----
-### Building a tree-walking interpreter using "Writing an Interpreter in Go"
+# Monkey Interpreter
+Building a tree-walking interpreter using "Writing an Interpreter in Go"
 
 ## Chapter 1 - Lexers
 Source Code --> Tokens --> Abstract Syntax Tree
